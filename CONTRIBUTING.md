@@ -10,7 +10,6 @@ Thanks for using this template.
 
 ## If you contribute here
 
-- Keep changes small
 - Make clear commits
 - Test before pushing
 
