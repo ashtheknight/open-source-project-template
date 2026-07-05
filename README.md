@@ -56,3 +56,6 @@ This repo removes that setup time.
 ## Purpose
 
 This repo exists to remove setup friction so you can focus on building.
+
+## Devlog
+- 2026-07-04 → docs/devlog.md
