@@ -1,34 +1,54 @@
 # Project Template
 
-A clean GitHub template for starting new software or engineering projects.
+A clean, production-ready GitHub template for starting new software or engineering projects.
 
-## What's Included
+---
 
-- Standard project structure
-- Documentation templates
+## Why this exists
+
+Starting a new project always takes too long:
+- setting up folders
+- writing docs
+- adding GitHub templates
+- organizing structure
+
+This repo removes that setup time.
+
+---
+
+## What you get
+
+- Clean project structure
+- Pre-made documentation templates
 - GitHub issue templates
 - Pull request template
-- Basic CI workflow setup (optional)
-- Organized folders for scaling projects
+- Contributing guide
+- MIT License
 
-## Folder Structure
+---
 
-## Getting Started
+## Folder structure
 
-1. Click "Use this template" on GitHub
+---
+
+## How to use
+
+1. Click **"Use this template"** on GitHub
 2. Clone your new repo
-3. Start building your project
+3. Start building immediately
 
-## Docs
+---
 
-Inside `/docs`:
+## Docs included
 
-- PRD.md — what you're building
-- Architecture.md — system design
-- Roadmap.md — planned steps
-- Decisions.md — key decisions made
-- Testing.md — how you test your project
+- PRD.md → what you're building
+- Architecture.md → system design
+- Roadmap.md → planning
+- Decisions.md → design choices
+- Testing.md → testing plan
+
+---
 
 ## Purpose
 
-This repo is meant to remove setup friction so you can start building immediately.
+This repo exists to remove setup friction so you can focus on building.
