@@ -1,3 +1,7 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Template](https://img.shields.io/badge/type-project%20template-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Project Template
 
 A clean, production-ready GitHub template for starting new software or engineering projects.
