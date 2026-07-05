@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  basic-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check file structure
+        run: |
+          echo "Checking project structure..."
+          ls
+          test -d docs
+          test -d src
+          test -d assets
+          test -d .github
+
+      - name: Done
+        run: echo "CI passed"
